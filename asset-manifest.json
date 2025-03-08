@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cookbook/static/css/main.ad788839.css",
-    "main.js": "/cookbook/static/js/main.87ed6b3e.js",
+    "main.js": "/cookbook/static/js/main.4418031f.js",
     "static/js/453.792e20aa.chunk.js": "/cookbook/static/js/453.792e20aa.chunk.js",
     "static/media/SPtofu.png": "/cookbook/static/media/SPtofu.466c73e4ecb4e73e55f9.png",
     "static/media/five-spice.jpg": "/cookbook/static/media/five-spice.7160fbbb69f9405c70bd.jpg",
@@ -23,11 +23,11 @@
     "static/media/star-anise.jpg": "/cookbook/static/media/star-anise.afb642bdd578cf9a9908.jpg",
     "index.html": "/cookbook/index.html",
     "main.ad788839.css.map": "/cookbook/static/css/main.ad788839.css.map",
-    "main.87ed6b3e.js.map": "/cookbook/static/js/main.87ed6b3e.js.map",
+    "main.4418031f.js.map": "/cookbook/static/js/main.4418031f.js.map",
     "453.792e20aa.chunk.js.map": "/cookbook/static/js/453.792e20aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad788839.css",
-    "static/js/main.87ed6b3e.js"
+    "static/js/main.4418031f.js"
   ]
 }
