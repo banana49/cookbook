@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/cookbook/static/css/main.ad788839.css",
+    "main.js": "/cookbook/static/js/main.87ed6b3e.js",
+    "static/js/453.792e20aa.chunk.js": "/cookbook/static/js/453.792e20aa.chunk.js",
+    "static/media/SPtofu.png": "/cookbook/static/media/SPtofu.466c73e4ecb4e73e55f9.png",
+    "static/media/five-spice.jpg": "/cookbook/static/media/five-spice.7160fbbb69f9405c70bd.jpg",
+    "static/media/CLeggs.png": "/cookbook/static/media/CLeggs.294dcdf5f92742d23ec7.png",
+    "static/media/SAribs.png": "/cookbook/static/media/SAribs.a00e0974f58fd3723f5c.png",
+    "static/media/CCsoup.png": "/cookbook/static/media/CCsoup.b5b5ccd4fddbdb980d82.png",
+    "static/media/FLbread.png": "/cookbook/static/media/FLbread.31d8afb59c70cdea60d7.png",
+    "static/media/fspbb.png": "/cookbook/static/media/fspbb.a501f6e1a94e5e2bc0e0.png",
+    "static/media/SPchicken.png": "/cookbook/static/media/SPchicken.52117914ca27490a432a.png",
+    "static/media/CCchicken.png": "/cookbook/static/media/CCchicken.241bd8d836d7d6300e39.png",
+    "static/media/FLlamb.png": "/cookbook/static/media/FLlamb.567ffb6494b7923b514a.png",
+    "static/media/SAclay.png": "/cookbook/static/media/SAclay.0aefdd57e76df345002a.png",
+    "static/media/CLtea.png": "/cookbook/static/media/CLtea.d0e0c9beb8d51966de7a.png",
+    "static/media/szechuan.jpg": "/cookbook/static/media/szechuan.1932097f59d2f54fd3cd.jpg",
+    "static/media/cloves.jpg": "/cookbook/static/media/cloves.6729ed95b2b4da033352.jpg",
+    "static/media/fsrd.png": "/cookbook/static/media/fsrd.294a6af9bc72bd5a6d86.png",
+    "static/media/cinnamon.jpg": "/cookbook/static/media/cinnamon.693df673be1f81aade75.jpg",
+    "static/media/fennel.jpg": "/cookbook/static/media/fennel.cee65e7fb0c436915542.jpg",
+    "static/media/star-anise.jpg": "/cookbook/static/media/star-anise.afb642bdd578cf9a9908.jpg",
+    "index.html": "/cookbook/index.html",
+    "main.ad788839.css.map": "/cookbook/static/css/main.ad788839.css.map",
+    "main.87ed6b3e.js.map": "/cookbook/static/js/main.87ed6b3e.js.map",
+    "453.792e20aa.chunk.js.map": "/cookbook/static/js/453.792e20aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad788839.css",
+    "static/js/main.87ed6b3e.js"
+  ]
+}
