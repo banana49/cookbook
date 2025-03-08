@@ -1,0 +1,30 @@
+.language-toggle-container {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.language-toggle-button {
+  background-color: #d85c45;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.language-toggle-button:hover {
+  background-color: #a03c2b;
+}
+
+@media (max-width: 768px) {
+  .language-toggle-container {
+    position: relative;
+    top: unset;
+    right: unset;
+    align-self: flex-end;
+    margin-bottom: 1rem;
+  }
+}

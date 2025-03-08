@@ -1,3 +1,35 @@
+/* :root {
+  --appwidth: 70vw;
+   font-family: "Iansui", cursive;
+  font-weight: 400;
+  font-style: normal; 
+  font-family: "Times New Roman", Times, serif;
+}
+
+.entire-container {
+  width: var(--appwidth);
+  background-color: azure;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+.toggle-button {
+  width: 10vw;
+  height: 5vh;
+  position: relative;
+  left: 2;
+  font: icon;
+  overflow: hidden;
+  border: 1px solid lightcoral;
+  border-radius: 3ch;
+  background: #f5f5f5;
+  cursor: pointer;
+}
+
+body {
+  background: #ebc799;
+}
+
 .App {
   text-align: center;
 }
@@ -13,19 +45,48 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
 .App-link {
   color: #61dafb;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1vh auto 1vh auto; 
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: var(--appwidth);
+  border-radius: 5px;
+}
+
+.mainNavigation {
+  color: darkblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mainNavigation::li {
+  justify-content: space-around;
+}
+
+ li {
+  display: flex;
+  justify-content: space-between;
+  margin: 1vw;
+  font-size: calc(10px + 1vw);
+} 
+
+nav {
+  background-color: beige;
+  width: var(--appwidth);
+  height: 10vw;
+  display: flex;
+  justify-content: space-between; 
 }
 
 @keyframes App-logo-spin {
@@ -34,5 +95,45 @@
   }
   to {
     transform: rotate(360deg);
+  }
+} */
+
+.app-container {
+  width: 65%;
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.content-container {
+  flex: 1;
+  padding: 2rem;
+}
+
+.footer {
+  padding: 1rem;
+  text-align: center;
+  background-color: #f8f8f8;
+  border-top: 1px solid #eaeaea;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+@media (max-width: 1200px) {
+  .app-container {
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  .app-container {
+    width: 95%;
+  }
+
+  .content-container {
+    padding: 1rem;
   }
 }
